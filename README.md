@@ -36,7 +36,7 @@ Spero Spates is a fictional soda drink company, and this project aims to create 
    
 2. **Clone Repository**:
    ```bash
-   git clone https://github.com/your-username/spero-spates-soda-marketing.git
+   git clone https://github.com/AhmedSameh210/SperoSpates-Graphics-project.git
    ```
 
 3. **Open Blender**:
